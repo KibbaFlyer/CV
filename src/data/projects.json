@@ -1,0 +1,286 @@
+[
+  {
+    "title": {
+      "en": "Personal Site",
+      "de": "Persönliche Webseite",
+      "sv": "Personlig webbplats"
+    },
+    "imageSrc": "../../../assets/projects/icons8-person-64.png",
+    "description": {
+      "en": "This site! Made to exemplify my skills and talents.",
+      "de": "Diese Seite! Erstellt, um meine Fähigkeiten und Talente zu demonstrieren.",
+      "sv": "Den här webbplatsen! Skapad för att visa mina färdigheter och talanger."
+    },
+    "skills": {
+      "en": [
+        "React",
+        "Typescript",
+        "VS Code",
+        "GitHub Pages"
+      ],
+      "de": [
+        "React",
+        "Typescript",
+        "VS Code",
+        "GitHub Pages"
+      ],
+      "sv": [
+        "React",
+        "Typescript",
+        "VS Code",
+        "GitHub Pages"
+      ]
+    },
+    "demo": "https://kibbaflyer.github.io/CV/",
+    "source": "https://github.com/KibbaFlyer/CV"
+  },
+  {
+    "title": {
+      "en": "Bimlist",
+      "de": "Bimlist",
+      "sv": "Bimlist"
+    },
+    "imageSrc": "../../../assets/projects/icons8-list-64.png",
+    "description": {
+      "en": "A project made to help people understand their BIM Models better",
+      "de": "Ein Projekt, um Menschen zu helfen, ihre BIM-Modelle besser zu verstehen",
+      "sv": "Ett projekt för att hjälpa människor att förstå sina BIM-modeller bättre"
+    },
+    "skills": {
+      "en": [
+        "React",
+        "TypeScript",
+        "ASP.NET",
+        "APS APIs",
+        "PostgreSQL",
+        "Azure",
+        "GitHub Actions",
+        "Rider"
+      ],
+      "de": [
+        "React",
+        "TypeScript",
+        "ASP.NET",
+        "APS-APIs",
+        "PostgreSQL",
+        "Azure",
+        "GitHub Actions",
+        "Rider"
+      ],
+      "sv": [
+        "React",
+        "TypeScript",
+        "ASP.NET",
+        "APS-APIs",
+        "PostgreSQL",
+        "Azure",
+        "GitHub Actions",
+        "Rider"
+      ]
+    },
+    "demo": "https://app.bimlist.com"
+  },
+  {
+    "title": {
+      "en": "Cats Facts",
+      "de": "Katzenfakten",
+      "sv": "Kattfakta"
+    },
+    "imageSrc": "../../../assets/projects/icons8-cat-64.png",
+    "description": {
+      "en": "A small project part of a course assignment.",
+      "de": "Ein kleines Projekt als Teil einer Kursaufgabe.",
+      "sv": "Ett litet projekt som en del av en kursuppgift."
+    },
+    "skills": {
+      "en": [
+        "React",
+        "TypeScript",
+        "VS Code",
+        "AWS S3"
+      ],
+      "de": [
+        "React",
+        "TypeScript",
+        "VS Code",
+        "AWS S3"
+      ],
+      "sv": [
+        "React",
+        "TypeScript",
+        "VS Code",
+        "AWS S3"
+      ]
+    },
+    "demo": "http://catfacts.flygare.xyz",
+    "source": "https://github.com/KibbaFlyer/ITHS-YH01384-LABB-1"
+  },
+  {
+    "title": {
+      "en": "Customer Registry Application",
+      "de": "Kundenregister",
+      "sv": "Kundregister"
+    },
+    "imageSrc": "../../../assets/projects/icons8-c-sharp-logo-50.png",
+    "description": {
+      "en": "A small project part of a course assignment. This application uses a MVVM pattern in a .NET WPF application to manage customer data.",
+      "de": "Ein kleines Projekt als Teil einer Kursaufgabe. Diese Anwendung verwendet ein MVVM-Muster in einer .NET WPF-Anwendung zur Verwaltung von Kundendaten.",
+      "sv": "Ett litet projekt som en del av en kursuppgift. Denna applikation använder ett MVVM-mönster i en .NET WPF-applikation för att hantera kunddata."
+    },
+    "skills": {
+      "en": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ],
+      "de": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ],
+      "sv": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ]
+    },
+    "source": "https://github.com/KibbaFlyer/MAU-DA204E-INL5"
+  },
+  {
+    "title": {
+      "en": "To do Application",
+      "de": "Aufgaben Applikation",
+      "sv": "Att-göra applikation"
+    },
+    "imageSrc": "../../../assets/projects/icons8-c-sharp-logo-50.png",
+    "description": {
+      "en": "This application uses a MVVM pattern in a .NET WPF application to manage tasks.",
+      "de": "Diese Anwendung verwendet ein MVVM-Muster in einer .NET WPF-Anwendung zur Verwaltung von Aufgaben.",
+      "sv": "Denna applikation använder ett MVVM-mönster i en .NET WPF-applikation för att hantera uppgifter."
+    },
+    "skills": {
+      "en": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ],
+      "de": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ],
+      "sv": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ]
+    },
+    "source": "https://github.com/KibbaFlyer/MAU-DA204E-INL6"
+  },
+  {
+    "title": {
+      "en": "Recipe Book",
+      "de": "Rezeptbuch",
+      "sv": "Receptbok"
+    },
+    "imageSrc": "../../../assets/projects/icons8-c-sharp-logo-50.png",
+    "description": {
+      "en": "Uses MVVM pattern in a .NET WPF application to manage recipes and ingredients for a recipe book.",
+      "de": "Verwendet ein MVVM-Muster in einer .NET WPF-Anwendung zur Verwaltung von Rezepten und Zutaten für ein Rezeptbuch.",
+      "sv": "Använder MVVM-mönster i en .NET WPF-applikation för att hantera recept och ingredienser för en receptbok."
+    },
+    "skills": {
+      "en": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ],
+      "de": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ],
+      "sv": [
+        ".NET Core",
+        "WPF",
+        "MVVM",
+        "Visual Studio"
+      ]
+    },
+    "source": "https://github.com/KibbaFlyer/MAU-DA204E-INL4"
+  },
+  {
+    "title": {
+      "en": "Dynafly",
+      "de": "Dynafly",
+      "sv": "Dynafly"
+    },
+    "imageSrc": "../../../assets/projects/rvt.png",
+    "description": {
+      "en": "A project containing zero-touch Dynamo nodes for Revit. Made in .NET Framework.",
+      "de": "Ein Projekt mit Zero-Touch-Dynamo-Knoten für Revit. Hergestellt im .NET Framework.",
+      "sv": "Ett projekt som innehåller zero-touch Dynamo-noder för Revit. Gjord i .NET Framework."
+    },
+    "skills": {
+      "en": [
+        ".NET Framwork",
+        "Dynamo",
+        "Revit API"
+      ],
+      "de": [
+        ".NET Framwork",
+        "Dynamo",
+        "Revit API"
+      ],
+      "sv": [
+        ".NET Framwork",
+        "Dynamo",
+        "Revit API"
+      ]
+    },
+    "source": "https://github.com/KibbaFlyer/MAU-DA204E-INL6"
+  },
+  {
+    "title": {
+      "en": "Lyrics Finder",
+      "de": "Songtextfinder",
+      "sv": "Låttextletare"
+    },
+    "imageSrc": "../../../assets/projects/icons8-react-64.png",
+    "description": {
+      "en": "An application to try out parallax effects, animations, and external APIs",
+      "de": "Ein Applikation, um Parallaxeneffekte, Animationen und externe APIs auszuprobieren",
+      "sv": "En applikation för att prova parallaxeffekter, animationer och externa API:er"
+    },
+    "skills": {
+      "en": [
+        "React",
+        "Typescript",
+        "VS Code",
+        "APIs"
+      ],
+      "de": [
+        "React",
+        "Typescript",
+        "VS Code",
+        "APIs"
+      ],
+      "sv": [
+        "React",
+        "Typescript",
+        "VS Code",
+        "APIs"
+      ]
+    },
+    "demo": "http://lyricsfinder.flygare.xyz",
+    "source": "https://github.com/KibbaFlyer/ITHS-YH01384-LABB-2"
+  }
+]

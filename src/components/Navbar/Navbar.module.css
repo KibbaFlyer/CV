@@ -1,0 +1,109 @@
+@import "../../css/vars.css";
+
+.navbarContainer {
+  position: fixed;
+  display: flex;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  z-index: 2;
+  background: linear-gradient(
+    0deg,
+    rgba(7, 22, 44, 0.7) 0%,
+    rgba(7, 22, 44, 1) 100%
+  );
+  width: 100%;
+}
+
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 10%;
+  width: 100%;
+}
+
+.header {
+  font-size: 30px;
+  font-weight: 700px;
+  color: var(--color-text);
+  text-decoration: none;
+  padding-right: 20px;
+}
+
+.menu {
+  display: flex;
+}
+
+.menuBtn {
+  display: none;
+}
+
+.items {
+  display: flex;
+  gap: 50px;
+  list-style: none;
+}
+
+.items a {
+  font-size: 25px;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1400px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menu {
+    position: absolute;
+    right: 0px;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+    z-index: 3;
+  }
+
+  .menuBtn {
+    display: block;
+    cursor: pointer;
+  }
+
+  .items {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: linear-gradient(
+      0deg,
+      rgba(25, 55, 109, 0.9) 0%,
+      var(--color-green) 100%
+    );
+    padding: 24px 33px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.25);
+  }
+
+  .menuOpen {
+    display: flex;
+    z-index: 1;
+  }
+}
+
+.languageLabel {
+  background-color: transparent;
+  color: var(--color-text);
+  border: none;
+  font-size: 25px;
+  font-weight: 700px;
+  -webkit-appearance: none;
+}
+
+.languageLabel:focus {
+  outline: none;
+}
+
+.menuBtn { background: transparent; border: 0; padding: 0; }
+.menuBtn img { display: block; width: 50px; height: 50px; }

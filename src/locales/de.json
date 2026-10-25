@@ -1,0 +1,44 @@
+{
+  "App": {
+    "cookieConsent": "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die bestmögliche Erfahrung auf unserer Website erzielen."
+  },
+  "About": {
+    "about": "Über",
+    "background": "Hintergrund",
+    "backgroundText": "Mein beruflicher Hintergrund liegt in der Baubranche, wo ich als Technologie-Manager und Entwickler gearbeitet habe. Dort entwickelte ich eine Leidenschaft für Technologie und Softwareentwicklung, und ich bin derzeit dabei, meine Karriere zur Softwareentwicklung zu wechseln.",
+    "frontend": "Frontend",
+    "frontendText": "Ich entwickle Anwendungen mit React und TypeScript und habe Erfahrung darin, externe Dienste in meine Anwendungen zu integrieren. Ich nutze aktuelle Werkzeuge und Technologien, um effektiv moderne und responsive Anwendungen zu erstellen. Ich habe Erfahrung darin, diese Anwendungen auf Azure und AWS zu hosten.",
+    "backend": "Backend",
+    "backendText": "Ich entwickle auch Backend-Dienste, APIs und Datenbanken, um Authentifizierung durchzuführen, Geschäftslogik zu betreiben und Daten sicher an Frontend-Anwendungen zu senden. Meine Erfahrung liegt hauptsächlich in Node.js und ASP.NET Core.",
+    "lowcode": "Low Code",
+    "lowcodeText": "Ich habe Erfahrung in der Entwicklung von Anwendungen auf Low-Code-Plattformen wie Power Automate und Dynamo für Revit, um schnell und kostengünstig einen starken Geschäftswert zu bieten."
+  },
+  "Contact": {
+    "contact": "Kontakt",
+    "germany": "Deutschland",
+    "icons8": "Icons bereitgestellt von icons8.com"
+  },
+  "Experience": {
+    "experience": "Erfahrung"
+  },
+  "Education": {
+    "education": "Bildung"
+  },
+  "Intro": {
+    "introStart": "Hallo, ich bin Kibba",
+    "introText": "Ich bin ein Softwareentwickler mit Leidenschaft und Antrieb, Menschen zu helfen. Mein beruflicher Hintergrund ist im Ingenieurwesen und ich studiere derzeit, um ein Full-Stack-Entwickler zu werden.",
+    "contactMe": "Kontaktiere mich"
+  },
+  "Projects": {
+    "demo": "Demo",
+    "source": "Quelle",
+    "projects": "Projekte"
+  },
+  "Navbar": {
+    "about": "Über",
+    "education": "Bildung",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  }
+}

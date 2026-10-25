@@ -1,0 +1,196 @@
+@import "../../css/vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 40px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 14px;
+}
+
+.skills {
+  width: 40%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 37px;
+}
+
+.category {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  gap: 10px;
+  width: 20%;
+  font-size: 15px;
+}
+
+.category h3 {
+  height: 45px;
+  font-weight: 500;
+}
+
+.skill {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.skillImageContainer img {
+  width: 50px;
+}
+
+.history {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.historyItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  background: var(--color-secondary);
+  background: linear-gradient(
+    90deg,
+    var(--color-secondary) 0%,
+    rgba(25, 55, 109, 0) 100%
+  );
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.historyItem img {
+  width: 50px;
+  border-radius: 5px;
+}
+
+.historyItemDetails h3 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.historyItemDetails p {
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.historyItemDetails ul {
+  margin-top: 6px;
+  list-style-position: inside;
+  font-size: 20px;
+  list-style-type: disc;
+  margin-left: 15px;
+}
+
+@media screen and (max-width: 1200px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 34px;
+  }
+
+  .skills {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .history {
+    width: 100%;
+    gap: 20px;
+  }
+}
+/* ----- */
+/* HISTORY ANIMATION */
+.hidden {
+  animation-name: slideOut;
+  animation-duration: 0.5s;
+}
+
+.show {
+  animation-name: slideIn;
+  animation-duration: 0.5s;
+}
+
+@keyframes slideOut {
+  0% {
+    transform: translateX(0%);
+    opacity: 100%;
+  }
+  100% {
+    transform: translateX(100%);
+    opacity: 0%;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(100%);
+    opacity: 0%;
+  }
+  100% {
+    transform: translateX(0%);
+    opacity: 100%;
+  }
+}
+/* ----- */
+/* IMAGES ANIMATION */
+.hiddenImg {
+  animation-name: scaleOut;
+  animation-duration: 0.5s;
+  will-change: transform, opacity;
+}
+
+.showImg {
+  animation-name: scaleIn;
+  animation-duration: 0.5s;
+  will-change: transform, opacity;
+}
+
+@keyframes scaleOut {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+}
+
+@keyframes scaleIn {
+  0% {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+/* ----- */
+
+
+@media (prefers-reduced-motion) {
+  .hidden,
+  .show, .showImg, .hiddenImg {
+    transition: none;
+  }
+}

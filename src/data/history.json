@@ -1,0 +1,95 @@
+[
+  {
+    "role": {
+      "en": "Independant BIM Consultant",
+      "sv": "Självständig BIM-konsult",
+      "de": "Selbstständiger BIM-Berater"
+    },
+    "organisation": "Flygare Projects",
+    "startDate": "2021",
+    "endDate": { "en": "Present", "sv": "Nuvarande", "de": "Aktuell" },
+    "experiences": {
+      "en": [
+        "Developing addins in .NET Framework",
+        "Building apps in React/TS and .NET Core",
+        "Creating low code automations on Azure and Dynamo",
+        "Teaching Dynamo and Revit API",
+        "Setting up and managing databases"
+      ],
+      "sv": [
+        "Utveckling av tillägg i .NET Framework",
+        "Bygga appar i React/TS och .NET Core",
+        "Skapa low code-automationer i Azure och Dynamo",
+        "Undervisning i Dynamo och Revit API",
+        "Konfigurera och hantera databaser"
+      ],
+      "de": [
+        "Entwicklung von Add-Ins im .NET Framework",
+        "Apps in React/TS und .NET Core erstellen",
+        "Low-Code-Automatisierungen auf Azure und Dynamo erstellen",
+        "Dynamo und Revit API unterrichten",
+        "Datenbanken einrichten und verwalten"
+      ]
+    },
+    "imageSrc": "../../assets/history/fp.png"
+  },
+  {
+    "role": {
+      "en": "BIM/Technology Manager",
+      "sv": "BIM/Technology Manager",
+      "de": "BIM/Technology Manager"
+    },
+    "organisation": "Bravida",
+    "startDate": "2019",
+    "endDate": { "en": "2021", "sv": "2021", "de": "2021" },
+    "experiences": {
+      "en": [
+        "BEPs",
+        "Automations",
+        "Modeling",
+        "Managing technology stack",
+        "Setting up and automating CDEs"
+      ],
+      "sv": [
+        "BEPs",
+        "Automatiseringar",
+        "Modellering",
+        "Hantera teknikstack",
+        "Konfigurera och automatisera CDEs"
+      ],
+      "de": [
+        "BEPs",
+        "Automatisierungen",
+        "Modellierung",
+        "Technologie-Stack verwalten",
+        "CDEs einrichten und automatisieren"
+      ]
+    },
+    "imageSrc": "../../assets/history/bravida.png"
+  },
+  {
+    "role": {
+      "en": "HVAC/Piping engineer",
+      "sv": "VVS-ingenjör",
+      "de": "HKLS-Ingenieur"
+    },
+    "organisation": "WSP",
+    "startDate": "2016",
+    "endDate": { "en": "2019", "sv": "2019", "de": "2019" },
+    "experiences": {
+      "en": [
+        "Designing ventilation, heating, and cooling systems",
+        "Worked with offices, schools, data centers, firefighter stations"
+      ],
+      "sv": [
+        "Design av ventilation, värme och kylsystem",
+        "Arbetade med kontor, skolor, datacenter, brandstationer"
+      ],
+      "de": [
+        "Entwurf von Lüftungs-, Heiz- und Kühlsystemen",
+        "Arbeitete mit Büros, Schulen, Rechenzentren, Feuerwehrstationen"
+      ]
+    },
+    "imageSrc": "../../assets/history/wsp.png"
+  }
+]

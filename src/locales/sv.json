@@ -1,0 +1,44 @@
+{
+    "App": {
+        "cookieConsent": "Denna webbplats använder cookies för att säkerställa att du får den bästa upplevelsen på vår webbplats."
+      },
+    "About": {
+        "about": "Om",
+        "background": "Bakgrund",
+        "backgroundText": "Min bakgrund är inom byggindustrin, där jag har arbetat som teknikchef och utvecklare. Där utvecklade jag en passion för teknik och programvaruutveckling, och jag håller för närvarande på att byta karriär till programvaruutveckling.",
+        "frontend": "Frontend",
+        "frontendText": "Jag utvecklar applikationer med React och TypeScript och har erfarenhet av att koppla externa tjänster till mina applikationer. Jag använder aktuella verktyg och teknologier för att effektivt skapa moderna och responsiva applikationer. Jag har erfarenhet av att hosta dessa applikationer på Azure och AWS.",
+        "backend": "Backend",
+        "backendText": "Jag utvecklar också backend-tjänster, API:er och databaser för att autentisera, köra affärslogik och säkert skicka data till frontend-applikationer. Min erfarenhet är främst inom Node.js och ASP.NET Core.",
+        "lowcode": "Low Code",
+        "lowcodeText": "Jag har erfarenhet av att utveckla applikationer på lågkodsplattformar som Power Automate och Dynamo för Revit, för att kunna erbjuda snabbt och kraftfullt affärsvärde till låg kostnad."
+    },
+    "Contact": {
+        "contact": "Kontakt",
+        "germany": "Tyskland",
+        "icons8": "Ikoner tillhandahållna av icons8.com"
+    },
+    "Experience": {
+        "experience": "Erfarenhet"
+    },
+    "Education": {
+        "education": "Utbildning"
+    },
+    "Intro": {
+        "introStart": "Hej, jag är Kibba",
+        "introText": "Jag är en mjukvaruutvecklare med passion och drivkraft att hjälpa människor. Min bakgrund är inom teknik och jag studerar för närvarande för att bli en fullstackutvecklare.",
+        "contactMe": "Kontakta mig"
+    },
+    "Projects": {
+        "demo": "Demo",
+        "source": "Källa",
+        "projects": "Projekt"
+    },
+    "Navbar": {
+        "about": "Om",
+        "education": "Utbildning",
+        "experience": "Erfarenhet",
+        "projects": "Projekt",
+        "contact": "Kontakt"
+    }
+}

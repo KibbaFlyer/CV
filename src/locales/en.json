@@ -1,0 +1,44 @@
+{
+  "App": {
+    "cookieConsent": "This website uses cookies to enhance the user experience."
+  },
+  "About": {
+    "about": "About",
+    "background": "Background",
+    "backgroundText": "My background is in the construction industry, where I have worked as a technology manager and developer. There I developed a passion for technology and software development, and I am currently in the process of changing my career to software development.",
+    "frontend": "Frontend",
+    "frontendText": "I am developing applications with React and TypeScript, and have experience connecting external services to my applications. I leverage current tools and technologies to efectively create modern and responsive applications. I have experience in hosting these applications on Azure and AWS.",
+    "backend": "Backend",
+    "backendText": "I also develop backend services, APIs, and databases to authenticate, run business logic, and securely send data to frontend applications. My experience is primarily in Node.js and ASP.NET Core.",
+    "lowcode": "Low Code",
+    "lowcodeText": "I have experience in developing applications on low code platforms such as Power Automate and Dynamo for Revit. In order to provide quick and powerful business value at a low cost."
+  },
+  "Contact": {
+    "contact": "Contact",
+    "germany": "Germany",
+    "icons8": "Icons provided by icons8.com"
+  },
+  "Experience": {
+    "experience": "Experience"
+  },
+  "Education": {
+    "education": "Education"
+  },
+  "Intro": {
+    "introStart": "Hi there, I am Kibba",
+    "introText": "I am a software developer with a passion and drive to help people. My background is in engineering and I am currently studying to become a full stack developer.",
+    "contactMe": "Contact me"
+  },
+  "Projects": {
+    "demo": "Demo",
+    "source": "Source",
+    "projects": "Projects"
+  },
+  "Navbar": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  }
+}

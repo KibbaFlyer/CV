@@ -1,0 +1,129 @@
+[
+  {
+    "educationName": {
+      "en": "Natural Sciences",
+      "sv": "Naturvetenskap",
+      "de": "Naturwissenschaften"
+    },
+    "school": {
+      "en": "Björknäsgymnasiet Boden, Sweden",
+      "sv": "Björknäsgymnasiet Boden, Sverige",
+      "de": "Björknäsgymnasiet Boden, Schweden"
+    },
+    "startDate": "2008",
+    "endDate": "2011",
+    "courses": {
+      "en": [
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Physics",
+        "Programming",
+        "and more.."
+      ],
+      "sv": [
+        "Kemi",
+        "Biologi",
+        "Matematik",
+        "Fysik",
+        "Programmering",
+        "och mer.."
+      ],
+      "de": [
+        "Chemie",
+        "Biologie",
+        "Mathematik",
+        "Physik",
+        "Programmierung",
+        "und mehr.."
+      ]
+    },
+    "imageSrc": null
+  },
+  {
+    "educationName": {
+      "en": "B.Sc. Energy Engineering",
+      "sv": "B.Sc. Energiteknik",
+      "de": "B.Sc. Energietechnik"
+    },
+    "school": {
+      "en": "Umeå University, Sweden",
+      "sv": "Umeå Universitet, Sverige",
+      "de": "Umeå Universität, Schweden"
+    },
+    "startDate": "2012",
+    "endDate": "2015",
+    "courses": {
+      "en": [
+        "Physics",
+        "Thermodynamics",
+        "Mathematics",
+        "Fluid Mechanics",
+        "Heat Transfer",
+        "Energy Systems",
+        "and more.."
+      ],
+      "sv": [
+        "Fysik",
+        "Termodynamik",
+        "Matematik",
+        "Strömningslära",
+        "Termodynamik",
+        "Energisystem",
+        "och mer.."
+      ],
+      "de": [
+        "Physik",
+        "Thermodynamik",
+        "Mathematik",
+        "Strömungsmechanik",
+        "Thermodynamik",
+        "Energiesysteme",
+        "und mehr.."
+      ]
+    },
+    "imageSrc": null
+  },
+  {
+    "educationName": {
+      "en": "Various Courses",
+      "sv": "Diverse Kurser",
+      "de": "Verschiedene Kurse"
+    },
+
+    "school": {
+      "en": "Swedish universities",
+      "sv": "Svenska universitet",
+      "de": "Schwedische Universitäten"
+    },
+    "startDate": "2019",
+    "endDate": "2024",
+    "courses": {
+      "en": [
+        "C#/.NET Programming (15 points)",
+        "React and Javascript (9 points)",
+        "Networking (7,5 points)",
+        "Bitcoin, Blockchains (4,5 points)",
+        "AI and ML (2,5 points)",
+        "Databases, SQL (7,5 points)"
+      ],
+      "sv": [
+        "C#/.NET Programmering (15 poäng)",
+        "React och Javascript (9 poäng)",
+        "Nätverk (7,5 poäng)",
+        "Bitcoin, Blockkedjor (4,5 poäng)",
+        "AI och ML (2,5 poäng)",
+        "Databaser, SQL (7,5 poäng)"
+      ],
+      "de": [
+        "C#/.NET Programmierung (15 ECTS)",
+        "React und Javascript (9 ECTS)",
+        "Netzwerke (7,5 ECTS)",
+        "Bitcoin, Blockchains (4,5 ECTS)",
+        "KI und ML (2,5 ECTS)",
+        "Datenbanken, SQL (7,5 ECTS)"
+      ]
+    },
+    "imageSrc": null
+  }
+]
