@@ -97,22 +97,22 @@
         "React",
         "TypeScript",
         "VS Code",
-        "AWS S3"
+        "GitHub Pages"
       ],
       "de": [
         "React",
         "TypeScript",
         "VS Code",
-        "AWS S3"
+        "GitHub Pages"
       ],
       "sv": [
         "React",
         "TypeScript",
         "VS Code",
-        "AWS S3"
+        "GitHub Pages"
       ]
     },
-    "demo": "http://catfacts.flygare.xyz",
+    "demo": "cat-facts/#/cats",
     "source": "https://github.com/KibbaFlyer/ITHS-YH01384-LABB-1"
   },
   {
@@ -280,7 +280,7 @@
         "APIs"
       ]
     },
-    "demo": "http://lyricsfinder.flygare.xyz",
+    "demo": "lyrics-finder/#/lyrics",
     "source": "https://github.com/KibbaFlyer/ITHS-YH01384-LABB-2"
   }
 ]

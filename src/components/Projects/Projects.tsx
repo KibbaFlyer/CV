@@ -47,7 +47,7 @@ const Projects = () => {
                     })}
                   </ul>
                   <div className={styles.linkDiv}>
-                    <a href={project.demo}>
+                    <a href={project.demo && (/^https?:/.test(project.demo) ? project.demo : `${import.meta.env.BASE_URL}${project.demo}`)}>
                       {project.demo != null && <button>{t('demo')}</button>}
                     </a>
                     <a href={project.source}>

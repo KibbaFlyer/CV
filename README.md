@@ -41,3 +41,14 @@ The Vite `base` is `/CV/`. Change this in `vite.config.ts` if the repository is 
 Content is copied from the reference as supplied, including its dates and external project links. The Personal Site project now points to this repository and GitHub Pages site.
 
 The original Google Analytics property (`G-KY8SZVYSLN`) is retained in `src/components/App/App.tsx` and only loaded after accepting analytics cookies. The language choice is remembered in browser storage.
+
+## Included demos
+
+The same build also produces `dist/cat-facts/index.html` and `dist/lyrics-finder/index.html`. The CV's Demo buttons open these local pages:
+
+- `/CV/cat-facts/#/cats` — source copied from `ITHS-YH01384-LABB-1/labb1` into `demos/cat-facts/`.
+- `/CV/lyrics-finder/#/lyrics` — source copied from `ITHS-YH01384-LABB-2/Labb2` into `demos/lyrics-finder/`.
+
+Both retain their own styling and navigation, with a Back to CV link. Hash routing allows direct links and refreshes on GitHub Pages without server rewrites. One `npm ci` and `npm run build` builds all three apps; the existing Pages workflow deploys them together. No separate repositories or hosting accounts are needed.
+
+Cat facts and lyrics still depend on the public `catfact.ninja` and `api.lyrics.ovh` services. Loading failures show a retry message. Other original demo tabs retain their original external API dependencies. The original repositories remain unchanged.
