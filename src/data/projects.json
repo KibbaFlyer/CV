@@ -282,5 +282,42 @@
     },
     "demo": "lyrics-finder/#/lyrics",
     "source": "https://github.com/KibbaFlyer/ITHS-YH01384-LABB-2"
+  },
+  {
+    "title": {
+      "en": "Simple Foods",
+      "de": "Simple Foods",
+      "sv": "Simple Foods"
+    },
+    "imageSrc": "../../../assets/projects/simple-foods-icon.png",
+    "description": {
+      "en": "A native, offline-first iPhone app for tracking meals and nutrition.",
+      "de": "Eine native, offlinefähige iPhone-App zur Erfassung von Mahlzeiten und Nährwerten.",
+      "sv": "En inbyggd iPhone-app som fungerar offline för att registrera måltider och näringsvärden."
+    },
+    "skills": {
+      "en": [
+        "Swift",
+        "Python",
+        "SwiftUI",
+        "iOS",
+        "GRDB"
+      ],
+      "de": [
+        "Swift",
+        "Python",
+        "SwiftUI",
+        "iOS",
+        "GRDB"
+      ],
+      "sv": [
+        "Swift",
+        "Python",
+        "SwiftUI",
+        "iOS",
+        "GRDB"
+      ]
+    },
+    "source": "https://github.com/KibbaFlyer/SimpleFoods"
   }
 ]

@@ -47,7 +47,7 @@
     },
     "organisation": "Flygare Projects",
     "startDate": "2021",
-    "endDate": "2024",
+    "endDate": { "en": "2024", "sv": "2024", "de": "2024" },
     "experiences": {
       "en": [
         "Developing addins in .NET Framework",
