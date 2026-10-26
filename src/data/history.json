@@ -1,13 +1,53 @@
 [
   {
     "role": {
+      "en": "Senior Application Expert",
+      "sv": "Senior Applikationsexpert",
+      "de": "Senior Applikationsexpert"
+    },
+    "organisation": "H&M Group",
+    "startDate": "2024",
+    "endDate": { "en": "Present", "sv": "Nuvarande", "de": "Aktuell" },
+    "experiences": {
+      "en": [
+        "Advicing in ways of working and roadmap of a complex system landscape",
+        "Automating tasks using microservices containerized on Azure",
+        "Taking architectural decisions of existing and greenfield solution",
+        "Securing solutions",
+        "Developing customizations to Revit",
+        "Building new capabilities using Python, C#/.NET, JS/React",
+        "Supporting users in their daily work"
+      ],
+      "sv": [
+        "Rådgivning om arbetssätt och roadmap för ett komplext systemlandskap",
+        "Automatisering av uppgifter med hjälp av mikrotjänster som körs i containrar på Azure",
+        "Fatta arkitekturbeslut för existerande och nya lösningar",
+        "Säkerställa lösningars säkerhet",
+        "Utveckla anpassningar för Revit",
+        "Bygga nya funktioner med Python, C#/.NET och JS/React",
+        "Stödja användare i deras dagliga arbete"
+      ],
+      "de": [
+        "Beratung zu Arbeitsweisen und zur Roadmap einer komplexen Systemlandschaft",
+        "Automatisierung von Aufgaben mithilfe containerisierter Microservices auf Azure",
+        "Treffen von Architekturentscheidungen für existierende und neue Lösungen",
+        "Absicherung von Lösungen",
+        "Entwicklung von Anpassungen für Revit",
+        "Entwicklung neuer Funktionen mit Python, C#/.NET und JS/React",
+        "Unterstützung der Nutzerinnen und Nutzer in ihrem Arbeitsalltag"
+      ]
+    },
+    "imageSrc": "../../assets/history/hm.png"
+  },
+  {
+    "role": {
       "en": "Independant BIM Consultant",
       "sv": "Självständig BIM-konsult",
       "de": "Selbstständiger BIM-Berater"
     },
     "organisation": "Flygare Projects",
     "startDate": "2021",
-    "endDate": { "en": "Present", "sv": "Nuvarande", "de": "Aktuell" },
+    "endDate": "2024",
     "experiences": {
       "en": [
         "Developing addins in .NET Framework",

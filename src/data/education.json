@@ -97,7 +97,7 @@
       "de": "Schwedische Universitäten"
     },
     "startDate": "2019",
-    "endDate": "2024",
+    "endDate": "Now",
     "courses": {
       "en": [
         "C#/.NET Programming (15 points)",
@@ -105,7 +105,10 @@
         "Networking (7,5 points)",
         "Bitcoin, Blockchains (4,5 points)",
         "AI and ML (2,5 points)",
-        "Databases, SQL (7,5 points)"
+        "Databases, SQL (7,5 points)",
+        "Algorithms (6 points)",
+        "Machine Learning (6 points)",
+        "Cyber Security (30 points)"
       ],
       "sv": [
         "C#/.NET Programmering (15 poäng)",
@@ -113,7 +116,10 @@
         "Nätverk (7,5 poäng)",
         "Bitcoin, Blockkedjor (4,5 poäng)",
         "AI och ML (2,5 poäng)",
-        "Databaser, SQL (7,5 poäng)"
+        "Databaser, SQL (7,5 poäng)",
+        "Algoritmer (6 poäng)",
+        "Maskinlärning (6 poäng)",
+        "Cybersäkerhet (30 poäng)"
       ],
       "de": [
         "C#/.NET Programmierung (15 ECTS)",
@@ -121,7 +127,10 @@
         "Netzwerke (7,5 ECTS)",
         "Bitcoin, Blockchains (4,5 ECTS)",
         "KI und ML (2,5 ECTS)",
-        "Datenbanken, SQL (7,5 ECTS)"
+        "Datenbanken, SQL (7,5 ECTS)",
+        "Algorithmus (6 ECTS)",
+        "Maschinelles Lernen (6 ECTS)",
+        "Cybersicherheit (30 ECTS)"
       ]
     },
     "imageSrc": null
